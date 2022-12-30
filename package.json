@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mishrpranav007/Webapp#readme",
   "dependencies": {
-    "mocha": "^7.0.0"
+    "mocha": "^10.2.0"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
